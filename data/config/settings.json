@@ -1,0 +1,12 @@
+{
+  # Systems Expertise
+  "SystemsExpertiseBonusCharges": 1, # Default 1
+  "SystemsExpertiseRegenerationRatePercent": 50, # Default 50
+  "SystemsExpertiseSystemBonusRangePercent": 50, # Default 50
+  "SystemsExpertiseCooldownReductionPercent": 33, # Default 33
+  "SystemsExpertisePeakTimeBonus": 30, # Default 30
+  "SystemsExpertiseOverloadReduction": 25, # Default 25
+
+
+
+}

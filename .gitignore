@@ -1,0 +1,6 @@
+# Ignored files
+/shelf/
+/workspace.xml
+/.idea
+/out
+/*.iml
