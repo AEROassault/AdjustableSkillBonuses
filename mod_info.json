@@ -1,0 +1,10 @@
+{
+  "id":"adjustable_skill_bonuses",
+  "name":"Adjustable Skill Bonuses",
+  "author":"AERO",
+  "version":"0.1.0",
+  "description":"Allows users to modify skill bonuses for most skills via the settings.json file",
+  "gameVersion":"0.95.1a-RC6",
+  "jars":["jars/AdjustableSkillBonuses.jar"],
+  "modPlugin":"adjustableskillthresholds.data.scripts.ast_ModPlugin"
+}

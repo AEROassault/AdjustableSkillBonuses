@@ -1,4 +1,20 @@
 {
+  # Field Modulation
+  "FieldModShieldDamageReductionPercent": 15, # Default 15
+  "FieldModHardFluxDissipationPercent": 15, # Default 15
+  "FieldModPhaseCloakUpkeepReductionPercent": 25, # Default 25
+  "FieldModPhaseCloakCooldownPercent": 50, # Default 50
+
+  # Point Defense
+  "PointDefFighterDamagePercentBonus": 50, # Default 50
+  "PointDefMissileDamagePercentBonus": 50, # Default 50
+  "PointDefFlatRangeBonus": 200, # Default 200
+
+  # Ballistic Mastery
+  "BallisticMasteryDamageBonus": 10, # Default 10
+  "BallisticMasteryRangeBonus": 10, # Default 10
+  "BallisticMasteryProjectileSpeedBonus": 33, # Default 33
+
   # Systems Expertise
   "SystemsExpertiseBonusCharges": 1, # Default 1
   "SystemsExpertiseRegenerationRatePercent": 50, # Default 50
@@ -6,7 +22,17 @@
   "SystemsExpertiseCooldownReductionPercent": 33, # Default 33
   "SystemsExpertisePeakTimeBonus": 30, # Default 30
   "SystemsExpertiseOverloadReduction": 25, # Default 25
+  "SystemsExpertiseMalfunctionChanceMult": 0.5 # Default 0.5
 
+  # Missile Specialization
+  "MissileSpecializationAmmoCapacityBonus": 100,
+  "MissileSpecializationMissileHPBonus": 50,
+  "MissileSpecializationRateOfFireBonus": 50,
+  "MissileSpecializationMissileDamageBonus": 10,
 
+  # Makeshift Equipment
+  "MakeshiftEqiupmentSupplyReductionMaxPercent": 50, # Default 50
+  "MakeshiftEqiupmentSupplyReductionMaxUnits": 100, # Default 100
+  "MakeshiftEqiupmentSurveyCostMult": 0.5, # Default 0.5
 
 }
