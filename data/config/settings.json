@@ -22,7 +22,7 @@
   "SystemsExpertiseCooldownReductionPercent": 33, # Default 33
   "SystemsExpertisePeakTimeBonus": 30, # Default 30
   "SystemsExpertiseOverloadReduction": 25, # Default 25
-  "SystemsExpertiseMalfunctionChanceMult": 0.5 # Default 0.5
+  "SystemsExpertiseMalfunctionChanceMult": 0.5, # Default 0.5
 
   # Missile Specialization
   "MissileSpecializationAmmoCapacityBonus": 100,
